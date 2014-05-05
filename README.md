@@ -1,0 +1,3 @@
+rabbitDemo
+==========
+demo of rabbitmq
